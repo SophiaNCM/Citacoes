@@ -1,0 +1,30 @@
+html{
+    text-align: center;
+    background-color: rgb(204, 194, 171);
+}
+.quote{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    margin: 200px 500px;
+    border: 5px solid rgba(128, 111, 80, 0.863);
+    height: 200px;
+    border-radius: 10px;
+    color: rgb(78, 78, 78);
+}
+button{
+    margin-top: 30px;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    background-color: rgb(224, 94, 94);
+    border: 0px;
+    border-radius: 10px;
+}
+.author{
+    color: rgb(24, 24, 24);
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(172, 15, 15);
+    transition: 0.5s;
+}
